@@ -1,0 +1,16 @@
+   
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');      
+ .tesla-text {
+   font-family: 'TESLA', sans-serif;       
+   }    
+   
+  .navbar-text{
+   font-family:'Franklin Gothic Medium';
+   font-size: larger;
+   font-style: italic;
+  }
+  .card-text{
+   font-style: oblique;
+  }
+ 
+     
